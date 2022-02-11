@@ -1,2 +1,0 @@
-1. pros: faster, version control. cons: is static, no real time information
-2. 
